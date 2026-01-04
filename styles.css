@@ -1,11 +1,11 @@
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: Arial;
     background: #FFFACD;
     color: #8B4513;
 }
 h1, h2 {
-    font-family: Dancing Script, serif;
+    font-family: Dancing Script;
     color: #FF6347;
 }
 a {
